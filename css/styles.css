@@ -1,0 +1,119 @@
+
+body{background-color: black;
+}
+h1{
+  color: white;
+  text-align: center;
+  margin: 3%;
+}
+h5{color: white;
+text-align: center;
+margin: 3%}
+
+#CEO-Insights{
+  padding: 3%
+}
+#SMT-Insights{
+  padding: 3%
+}
+#Staff-Insights{
+  padding: 3%
+}
+#T4-Insights{
+  padding: 3%
+}
+#TESTOMINEO{
+  width: 1110px;
+    height:1000px;
+    margin-left: 110px;
+    font-family: cursive;
+}
+#footer{
+  background-color: #2B2B2B;
+  text-align: left;
+  height: 300px;
+  margin: 3%
+}
+.footer-p{
+  text-align: left;
+}
+.what-is-insight-p{
+  text-align: left;
+  color: #9D9D9D;
+  padding: 2%
+}
+.what-is-insight-h2{
+  font-family: cursive;
+  color: #9D9D9D;
+  padding: 4%;
+}
+}
+.first-section-row{
+  padding: 4
+}
+.navbar-brand{
+font-family: monospace;
+font-size: 25px;
+color: white;
+}
+.nav-link{
+  font-size: 15px;
+}
+hr{
+  color: white
+}
+
+/*insights*/
+.leadership-image{
+  width: 100%;
+}
+.Header{
+  color: white;
+  text-align: center;
+  font-family:cursive;
+  margin: 20px;}
+h3{
+  color: white;
+  text-align: center;
+  margin: 1rem;
+}
+h3:hover{
+  color: #92967D;
+}
+h3:hover{
+  color: #92967D
+}
+P{
+  color: white;
+  text-align: center;
+  margin: 1rem
+}
+p:hover{
+  color: #92967D;
+}
+
+.CEO-Insights{
+  color: white;
+  padding: 4%;
+  text-align: left;
+  font-family: cursive;
+}
+.SMT-H2{
+  color: white;
+  padding: 4%;
+  text-align: left;
+  font-family: cursive;
+}
+
+.Staff-Insights{
+  color: white;
+  padding: 4%;
+  text-align: left;
+  font-family: cursive;
+}
+.T4-Insights{
+  color: white;
+  padding: 4%;
+  text-align: left;
+  font-family: cursive;
+}
